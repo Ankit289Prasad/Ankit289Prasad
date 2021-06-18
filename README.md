@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://github-readme-stats.vercel.app/api?usernameAnkit289Prasad&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=Ankit289Prasad&count_private=true&show_icons=true&theme=radical" alt="GitHub Status"/>
 
 
 ### Top Languages I've Worked on!
